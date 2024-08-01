@@ -16,3 +16,8 @@ Game Idea:
 Used MVC pattern to display the game play in the console. 
 
 ![image](https://github.com/user-attachments/assets/b20cf34d-85e4-4e30-a4d5-dd2d269ee878)
+
+
+(green tiles are grass fields, yellow are mountains, blue water)
+(purple P and C, players position and castle)
+(red E, position of the enemy/opponent)
